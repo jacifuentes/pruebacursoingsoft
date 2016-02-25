@@ -1,2 +1,1 @@
-# pruebacursoingsoft
-prueba curso ing soft
+[![Travis](https://img.shields.io/travis/jacifuentes/pruebacursoingsoft.svg)]()
